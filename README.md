@@ -116,11 +116,11 @@ The Wave Gait was chosen for this design:
 
 Front / Isometric View
 
-![Robot Dog - Front Isometric View](images/front-iso-view.png)
+![front-iso-view.png](images/front-iso-view.png)
 
 Rear View
 
-![Robot Dog - Rear View](images/rear-view.png)
+![rear-view.png](images/rear-view.png)
 
 ---
 
