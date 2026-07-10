@@ -116,11 +116,11 @@ The Wave Gait was chosen for this design:
 
 Front / Isometric View
 
-![front-iso-view.png](images/front-iso-view.png)
+![Front / Isometric View](front-iso-view.png)
 
 Rear View
 
-![rear-view.png](images/rear-view.png)
+![Rear View](rear-view.png)
 
 ---
 
