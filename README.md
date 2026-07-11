@@ -71,13 +71,13 @@ Step 1 - Force:
   F = m x g = 0.3 x 9.81 = 2.943 N
 
 Step 2 - Torque:
-  tau = F x d = 2.943 x 0.027 = 0.0794 N路m ~= 0.81 kg路cm
+  tau = F x d = 2.943 x 0.027 = 0.0794 N·m ~= 0.81 kg·cm
 
 Step 3 - Apply safety factor (x2):
-  Required torque >= 1.62 kg路cm
+  Required torque >= 1.62 kg·cm
 ```
 
-Conclusion: The MG996R (11 kg路cm) provides a large safety margin above the calculated requirement for this joint.
+Conclusion: The MG996R (11 kg·cm) provides a large safety margin above the calculated requirement for this joint.
 
 ---
 
