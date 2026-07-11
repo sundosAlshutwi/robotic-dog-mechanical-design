@@ -50,7 +50,7 @@ Each leg has 2 joints:
 Motor type: Servo Motor - MG996R
 
 Why this motor:
-- Torque rating (approximately 10-11 kg路cm) covers the calculated requirement with a wide safety margin
+- Torque rating (approximately 10-11 kg·cm) covers the calculated requirement with a wide safety margin
 - Widely available and low-cost
 - Common choice for small hobby-robotics leg joints
 
