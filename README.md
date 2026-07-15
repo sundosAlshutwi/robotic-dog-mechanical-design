@@ -6,8 +6,8 @@ An initial mechanical design of a simple quadruped robotic dog, created using Ti
 
 ### 1. Body Design
 A rectangular block body with a front sensor/camera cutout was modeled in Tinkercad.
-- Full design bounding box: 95.3 x 95.3 x 61 mm (confirmed by STL cross-sectional measurement)
-- Body height above legs: approximately 20 mm (measured from the STL where the legs merge into the body, around 41 mm from ground level)
+- Full design bounding box: 95.3 x 95.3 x 61 mm
+- Body height above legs: approximately 20 mm
 
 ### 2. Leg Design
 The robot has 4 legs, each built from two segments connected at a joint (thigh and shin), designed once then duplicated and mirrored for symmetry.
